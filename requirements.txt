@@ -3,3 +3,5 @@ pandas
 Faker
 jupyter
 ipykernel
+python-dotenv
+faker-commerce
