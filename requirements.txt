@@ -5,3 +5,5 @@ jupyter
 ipykernel
 python-dotenv
 faker-commerce
+matplotlib
+seaborn
